@@ -1,0 +1,8 @@
+# Ignorar archivos temporales de Visual Studio
+*.vs/
+*.vscode/
+*.tmp
+
+# Ignorar directorios de paquetes
+bin/
+obj/
